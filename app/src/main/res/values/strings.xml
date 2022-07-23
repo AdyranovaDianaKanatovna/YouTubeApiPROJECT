@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YouTubeApiPROJECT</string>
+    <string name="text">Text</string>
+    <string name="_16_videos_here">16 videos here</string>
+    <string name="video_series">%1$d video series</string>
+    <string name="back">Back</string>
+    <string name="playlists">Playlists</string>
+</resources>
